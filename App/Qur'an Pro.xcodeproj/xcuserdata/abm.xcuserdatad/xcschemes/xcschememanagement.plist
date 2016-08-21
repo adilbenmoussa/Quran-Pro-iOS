@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Qur'an Pro.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>Qur'an Pro_RTL.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<true/>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Quran Lite.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>10033F7A1C330B4800D629D2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1010BF8E1A97634300B9CD3E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1010BFA31A97634300B9CD3E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1054625D1C1AFB3D0042382E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

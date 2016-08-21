@@ -1,0 +1,4 @@
+pod 'Parse'
+pod 'SSZipArchive'
+pod ‘Flurry-iOS-SDK/FlurrySDK’
+pod ‘Appirater’

@@ -1,6 +1,5 @@
 ## Quran Pro iOS
-
-  <img src="https://scontent-amt2-1.xx.fbcdn.net/t31.0-8/12087645_878469442202353_7197217199957326019_o.jpg" width="800">
+  <img src="https://github.com/adilbenmoussa/Quran-Pro-iOS/blob/master/quran.png" width="900">
    
 - Arabic, Deutsch, English, Español, Français, Nederlands, اردو ,فارسی ,Bahasa Indonesia, Bahasa Melayu, Türkçe, Italiano,Hrvatski, Norsk, Język polski, Português, Limba română, русский язык, Shqip, Azerbaycan dili, Bălgarski esik, čeština, Svenska translations of the Quran as well as the app itself is translated. 
 - Surah by surah and verse by verse recitations by: Mahmoud Khaleel Al-Husary, Mishary Rashid Alafasy, Abu Bakr al-Shatri, Abdul Basit 'Abd us-Samad, Saad Al-Ghamdi, Abdul Rahman Al Sudais, Salah Bukhatir and Maher Al Muaiqly

@@ -1,0 +1,129 @@
+//
+//  Localizable.strings
+//  Qur'an Pro
+//
+//  Created by Adil Ben Moussa on 10/27/15.
+//  Copyright © 2015 https://github.com/adilbenmoussa All rights reserved.
+//  GNU GENERAL PUBLIC LICENSE https://raw.githubusercontent.com/adilbenmoussa/Quran-Pro-iOS/master/LICENSE
+//
+
+// Since version 1.4
+"Ajza' added" = "Ajza' tampilan menambahkan";
+
+// Since version 1.3
+
+"Use ME Quranic font" = "ME Quranic Font  -  بِسْمِ اللَّهِ";
+"Use PDMS Quranic font" = "PDMS Selaam Font - بِسْمِ اللَّهِ";
+"Use Normal Arabic font" = "Normal Font - بِسْمِ اللَّهِ";
+
+"Open" = "Buka";
+
+"What is new in" = "What is new in";
+"Chapter info extended" = "Informasi Surah diperpanjang";
+"New Font" = "New huruf";
+"Copy verse" = "Copy ayah";
+
+
+// Since version 1.0
+
+//////////////////////////
+//        Global
+//////////////////////////
+"Chapters" = "Suras";
+"No" = "Tidak";
+"Yes" = "Ya";
+"OK"= "OK";
+"Info" = "Info";
+"Cancel" = "Batal";
+"Continue" = "Terus";
+
+//Verse play options
+"Play verse once" = "Setelah";
+"Play verse twice" = "Dua kali";
+"Play 3 times" = "3 kali";
+"Play 4 times" = "4 kali";
+"Play 5 times" = "5 kali";
+"Keep playing verse" = "Terus bermain ayah";
+
+//Chapter play options
+"Play chapter by chapter" = "Play surah oleh surah";
+"Play chapter once" = "Play surah once";
+"Keep playing chapter" = "Play surah sekali";
+"Chapter play options" = "Play surah pilihan";
+"Chapter view options" = "Surah melihat pilihan";
+
+//Chapter view options
+"Play verse" = "Bermain ayah";
+"Stop playing" = "Berhenti bermain";
+"Verse view" = "Ayah melihat";
+"Font size" = "Ukuran huruf";
+"No Translation" = "Terjemahan ada";
+"No Transliteration" = "Transliterasi ada";
+"Medium" = "Medium";
+"Large" = "Besar";
+"Extra Large" = "Ekstra besar";
+"Arabic font" = "Bahasa Arab huruf";
+"Use Quranic font" = "Menggunakan huruf Quran";
+
+//Search
+"Search in translation" = "Cari di terjemahan";
+"Search in Arabic" = "Cari di bahasa Arab";
+"Search in transliteration" = "Cari di transliterasi";
+"e.g. 6:88, الله, hizb 8 or Allah" = "misal 6:88, الله, hizb 8 atau Allah";
+"No results" = "Ada hasil yang ditemukan";
+
+//Bookmark
+"Bookmark" = "Favorit";
+"Remove all bookmarks?" = "Hapus semua favorit?";
+"Add to bookmarks" = "Tambahkan ke favorit";
+"Remove from bookmarks" = "Dihapus dari favorit";
+"Copy verse" = "Menyalin";
+
+//More
+"More" = "Lebih";
+"Actions" = "Pilihan";
+"Settings" = "Pengaturan";
+"Search" = "Cari";
+"Bookmarks" = "Favorit";
+"Audio Downloads" = "Audio downloads";
+"Select translation" = "Pilih terjemahan";
+"Select reciter" = "Pilih qari";
+"Search options" = "Pilihan pencarian";
+"Verse play options" = "Play ayah pilihan";
+
+//Download
+"Download" = "Download";
+"Downloaded ✅" = "Di-download ✅";
+"Downloading via 3G/4G connection?" = "Download via 3G / 4G koneksi?";
+"You are not connected to the internet." = "Anda tidak terhubung ke internet.";
+"Something went wrong during downloading, please try later on again." = "Something went wrong during downloading, please try later on again.";
+"Audio not downloaded yet." = "Audio tidak di-download belum.";
+"Download chapter" = "Download surah";
+"All audios have been downloaded." = "Semua audios telah di-download.";
+"Stop All Downloads" = "Menghentikan semua download";
+"Stop Download" = "Berhenti download";
+"Pause Download" = "Jeda download";
+"Delete Download" = "Hapus download";
+"Delete All Downloads" = "Hapus semua download";
+"Pause All Downloads" = "Jeda semua download";
+
+//Messages
+"Tell a friend" = "Beritahu teman";
+"Tell a friend subject" = "Cobalah aplikasi ini";
+"Tell a friend message" = "Assalam alaykoum,<br/><br/>Saya menemukan <b><a href=\"http://itunes.apple.com/%@/app/id%@\">aplikasi ini</a></b> untuk iPad, iPhone dan iPod dan berpikir mungkin Anda ingin untuk memeriksa";
+"Write a review" = "Menulis tinjauan";
+"Islamic apps" = "Lebih aplikasi islamic";
+"Contact us" = "Hubungi kami";
+"by @adilbenmoussa" = "oleh @adilbenmoussa";
+
+//Social
+"Share" = "Berbagi";
+"Share via facebook" = "Berbagi melalui facebook";
+"Please login to a Facebook account to share." = "Silahkan login ke account Facebook untuk berbagi.";
+"Sharing successful." = "Terima kasih";
+"Shared via Quran Pro app" = "Berbagi via Quran Pro app";
+
+//"Please login to a Twitter account to share." = "Please login to a Twitter account to share.";
+//"Share via twitter" = "Share via twitter";
+
+

@@ -1,0 +1,127 @@
+//
+//  Localizable.strings
+//  Qur'an Pro
+//
+//  Created by Adil Ben Moussa on 10/27/15.
+//  Copyright © 2015 https://github.com/adilbenmoussa All rights reserved.
+//  GNU GENERAL PUBLIC LICENSE https://raw.githubusercontent.com/adilbenmoussa/Quran-Pro-iOS/master/LICENSE
+//
+
+// Since version 1.4
+"Ajza' added" = "Ajza' agregado";
+
+// Since version 1.3
+
+"Use ME Quranic font" = "ME Quranic Font  -  بِسْمِ اللَّهِ";
+"Use PDMS Quranic font" = "PDMS Selaam Font - بِسْمِ اللَّهِ";
+"Use Normal Arabic font" = "Normal Font - بِسْمِ اللَّهِ";
+
+"Open" = "Abrir";
+
+"What is new in" = "Lo nuevo en la";
+"Chapter info extended" = "Nueva información del Surah añadida";
+"New Font" = "Nueva fuente";
+"Copy verse" = "Copiar";
+
+// Since version 1.0
+
+//////////////////////////
+//        Global
+//////////////////////////
+"Chapters" = "Suras";
+"No" = "No";
+"Yes" = "Si";
+"OK"= "OK";
+"Info" = "Info";
+"Cancel" = "Anular";
+"Continue" = "Continuar";
+
+//Verse play options
+"Play verse once" = "Una vez";
+"Play verse twice" = "Dos veces";
+"Play 3 times" = "3 veces";
+"Play 4 times" = "4 veces";
+"Play 5 times" = "5 veces";
+"Keep playing verse" = "Repetir ayah";
+
+//Chapter play options
+"Play chapter by chapter" = "Surah despues surah";
+"Play chapter once" = "Una vez";
+"Keep playing chapter" = "Repetir surah";
+"Chapter play options" = "Surah opciones de audio";
+"Chapter view options" = "Surah opciones de vista";
+
+//Chapter view options
+"Play verse" = "Escuchar ayah";
+"Stop playing" = "Detener audio";
+"Verse view" = "Vista de ayah";
+"Font size" = "Tamaño de fuente";
+"No Translation" = "No traducción";
+"No Transliteration" = "No transcripción";
+"Medium" = "Medio";
+"Large" = "Grande";
+"Extra Large" = "Extra grande";
+"Arabic font" = "Fuente árabe";
+"Use Quranic font" = "Utilice la fuente del Corán";
+
+//Search
+"Search in translation" = "Búsqueda en traducción";
+"Search in Arabic" = "Búsqueda en árabe";
+"Search in transliteration" = "Búsqueda en transcripción";
+"e.g. 6:88, الله, hizb 8 or Allah" = "ejemplo 6:88 ,الله ,hizb 8 o Alá";
+"No results" = "Sin resultados";
+
+//Bookmark
+"Bookmark" = "Favorito";
+"Remove all bookmarks?" = "¿Suprimir todos los favoritos?";
+"Add to bookmarks" = "Agregada a los favoritos";
+"Remove from bookmarks" = "Suprimir de los favoritos";
+
+//More
+"More" = "Más";
+"Actions" = "Opciones";
+"Settings" = "Configuración";
+"Search" = "Búsqueda";
+"Bookmarks" = "Favoritos";
+"Audio Downloads" = "Descargas de Audio";
+"Select translation" = "Selecciona traducción";
+"Select reciter" = "Selecciona recitador";
+"Search options" = "Opciones de búsqueda";
+"Verse play options" = "Ayah opciones de audio";
+
+//Download
+"Download" = "Descargars";
+"Downloaded ✅" = "Descargado ✅";
+"Downloading via 3G/4G connection?" = "¿Descargar a través de la conexión 3G / 4G?";
+"You are not connected to the internet." = "Usted no está conectado a internet.";
+"Something went wrong during downloading, please try later on again." = "Algo salió mal durante la descarga, por favor intentalo más tarde de nuevo.";
+"Audio not downloaded yet." = "Audio no esta disponible";
+"Download chapter" = "Descargar surah";
+"All audios have been downloaded." = "Todos los audios han sido descargados.";
+"Stop All Downloads" = "Detener todas las descargas";
+"Stop Download" = "Detener la descarga";
+"Pause Download" = "Pausa la descarga";
+"Delete Download" = "Suprimir la descarga";
+"Delete All Downloads" = "Suprimir todas las descargas";
+"Pause All Downloads" = "Pausa totas las descargas";
+
+//Messages
+"Tell a friend" = "Recomendar a un amigo";
+"Tell a friend subject" = "Prueba esta aplicación";
+"Tell a friend message" = "Assalam alaykoum,<br/><br/>Encontré <b><a href=\"http://itunes.apple.com/%@/app/id%@\">esta aplicación</a></b> de iPad, iPhone y iPod y pensé que te pueden gustar";
+"Write a review" = "Escribir una reseña";
+"Islamic apps" = "Aplicaciónes islámicas";
+"Contact us" = "Contáctenos";
+"by @adilbenmoussa" = "por @adilbenmoussa";
+
+//Social
+"Share" = "Compartir";
+"Share via facebook" = "Compartir via facebook";
+"Please login to a Facebook account to share." = "Inicia la facebook sesión para poder compartir.";
+"Sharing successful." = "Su mensaje facebook ha sido enviado con éxito";
+"Shared via Quran Pro app" = "Compartido via la Quran Pro app";
+
+//"Please login to a Twitter account to share." = "Please login to a Twitter account to share.";
+//"Share via twitter" = "Share via twitter";
+
+

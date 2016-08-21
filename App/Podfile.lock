@@ -1,0 +1,22 @@
+PODS:
+  - Appirater (2.0.5)
+  - Bolts/Tasks (1.3.0)
+  - Flurry-iOS-SDK/FlurrySDK (7.1.1)
+  - Parse (1.9.0):
+    - Bolts/Tasks (>= 1.3.0)
+  - SSZipArchive (0.3.2)
+
+DEPENDENCIES:
+  - Appirater
+  - Flurry-iOS-SDK/FlurrySDK
+  - Parse
+  - SSZipArchive
+
+SPEC CHECKSUMS:
+  Appirater: e7c0a47fb67ee5041ce8479e6ba960927fb40264
+  Bolts: 805a4a87413e49d4a0c2b7d469084cbc46b09342
+  Flurry-iOS-SDK: 83fd4f40ae66e80d122fd2f6698f0e0c31021a63
+  Parse: 712efbc476d4f47b0f96b70db7e53101575753aa
+  SSZipArchive: 11801759495fa4efb7512ef652eb0042d68305d7
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,130 @@
+//
+//  Localizable.strings
+//  Qur'an Pro
+//
+//  Created by Adil Ben Moussa on 10/27/15.
+//  Copyright © 2015 https://github.com/adilbenmoussa All rights reserved.
+//  GNU GENERAL PUBLIC LICENSE https://raw.githubusercontent.com/adilbenmoussa/Quran-Pro-iOS/master/LICENSE
+//
+
+// Since version 1.4
+"Ajza' added" = "Ajza' view toegevoegd";
+
+
+// Since version 1.3
+
+"Use ME Quranic font" = "ME Quranic lettertype  -  بِسْمِ اللَّهِ";
+"Use PDMS Quranic font" = "PDMS Selaam lettertype - بِسْمِ اللَّهِ";
+"Use Normal Arabic font" = "Normal lettertype - بِسْمِ اللَّهِ";
+
+"Open" = "Open";
+
+"What is new in" = "Wat is er nieuw in";
+"Chapter info extended" = "Surah informatie uitgebreid";
+"New Font" = "Nieuw lettertype";
+"Copy verse" = "Kopiëer ayah";
+
+
+
+// Since version 1.0
+
+//////////////////////////
+//        Global
+//////////////////////////
+"Chapters" = "Suras";
+"No" = "Nee";
+"Yes" = "Ja";
+"OK"= "OK";
+"Info" = "Info";
+"Cancel" = "Annuleren";
+"Continue" = "Voortzetten";
+
+//Verse play options
+"Play verse once" = "Een keer";
+"Play verse twice" = "Twee keer";
+"Play 3 times" = "3 keer";
+"Play 4 times" = "4 keer";
+"Play 5 times" = "5 keer";
+"Keep playing verse" = "Blijf de ayah herhalen";
+
+//Chapter play options
+"Play chapter by chapter" = "Speel surah na surah";
+"Play chapter once" = "Speel een keer af";
+"Keep playing chapter" = "Blijf de surah herhalen";
+"Chapter play options" = "Surah afspeel-opties";
+"Chapter view options" = "Surah view-opties";
+
+//Chapter view options
+"Play verse" = "Speel ayah af";
+"Stop playing" = "Stop afspelen";
+"Verse view" = "Ayah view";
+"Font size" = "Lettertype formaat";
+"No Translation" = "Geen vertaling";
+"No Transliteration" = "Geen transliteratie";
+"Medium" = "Medium";
+"Large" = "Groot";
+"Extra Large" = "Extra groot";
+"Arabic font" = "Arabisch lettertype";
+"Use Quranic font" = "Gebruik Koran lettertype";
+
+//Search
+"Search in translation" = "Zoek in vertaling";
+"Search in Arabic" = "Zoek in Arabisch";
+"Search in transliteration" = "Zoek in transcriptie";
+"e.g. 6:88, الله, hizb 8 or Allah" = "bvb: 6:88, الله, hizb 8 of Allah";
+"No results" = "Geen resultaten gevonden";
+
+//Bookmark
+"Bookmark" = "Favorieten";
+"Remove all bookmarks?" = "Verwijder alles van favorieten?";
+"Add to bookmarks" = "Toegevoegen aan favorieten";
+"Remove from bookmarks" = "Verwijder van favorieten";
+
+//More
+"More" = "Meer";
+"Actions" = "Opties";
+"Settings" = "Instellingen";
+"Search" = "Zoeken";
+"Bookmarks" = "Favorieten";
+"Audio Downloads" = "Audio downloads";
+"Select translation" = "Selecteer vertaling";
+"Select reciter" = "Selecteer recitator";
+"Search options" = "Zoek opties";
+"Verse play options" = "Ayah afspeel-opties";
+
+//Download
+"Download" = "Download";
+"Downloaded ✅" = "Gedownload ✅";
+"Downloading via 3G/4G connection?" = "Download via 3G/4G connectie?";
+"You are not connected to the internet." = "U bent niet verbonden met het internet.";
+"Something went wrong during downloading, please try later on again." = "Iets is mis gegaan tijdens het downloaden, probeer het later opnieuw aub.";
+"Audio not downloaded yet." = "Audio niet gedownload.";
+"Download chapter" = "Download surah";
+"All audios have been downloaded." = "Alle audio's zijn gedownload.";
+"Stop All Downloads" = "Stop alle downloads";
+"Stop Download" = "Stop download";
+"Pause Download" = "Pauzeer download";
+"Delete Download" = "Verwijder download";
+"Delete All Downloads" = "Verwijder alle downloads";
+"Pause All Downloads" = "Pauzeer alle downloads";
+
+//Messages
+"Tell a friend" = "Vertel een vriend";
+"Tell a friend subject" = "Probeer deze app";
+"Tell a friend message" = "Salam alaykoum, <br /><br />Ik zou je graag deze app voor de Heilige Koran aanraden <b> <a href=\"http://itunes.apple.com/%@/app/id%@\">van deze link </a></b>";
+"Write a review" = "Schrijf een review";
+"Islamic apps" = "Islamitische apps";
+"Contact us" = "Contacteer ons";
+"by @adilbenmoussa" = "door @adilbenmoussa";
+
+//Social
+"Share" = "Delen";
+"Share via facebook" = "Delen via facebook";
+"Please login to a Facebook account to share." = "Log eerst in op facebook om te kunnen delen.";
+"Sharing successful." = "Delen succesvol.";
+"Shared via Quran Pro app" = "Gedeeld via Quran Pro app";
+
+//"Please login to a Twitter account to share." = "Please login to a Twitter account to share.";
+//"Share via twitter" = "Share via twitter";
+
+
