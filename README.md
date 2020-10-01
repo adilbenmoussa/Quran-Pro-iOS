@@ -1,5 +1,6 @@
 # Assalam Alaykoum (project closed)
-Unfortunatly I couldn't proceed with this beautiful project! Please use it as yours and don't forget me and my family with your prayers
+Unfortunatly I couldn't proceed with this beautiful project! Please use it as yours and don't forget me and my family with your prayers, 
+the author: Adil Ben Moussa
 
 ## Quran Pro iOS
   <img src="https://github.com/adilbenmoussa/Quran-Pro-iOS/blob/master/quran.png" width="900">
